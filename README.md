@@ -1,0 +1,2 @@
+# WchatCollection
+python微信收藏链接自动化保存到Excel
